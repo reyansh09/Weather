@@ -20,7 +20,8 @@
         </div>
 
         <h2 class="date">Temperature</h2>
-        <div>
+        <div class="cont">
+            <i class="fas fa-bolt temp-icon"></i>
             <h2 class="temp">{{ $weather['main']['temp'] }}°C</h2>
         </div>
 

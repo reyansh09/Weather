@@ -35,7 +35,7 @@ body {
 .temp {
     color: #FFFFFF;
     font-weight: 500;
-    font-size: 80px;
+    font-size: 60px;
 }
 .icon img {
     width: 100px;
@@ -60,4 +60,15 @@ body {
 p {
     font-size: 15px;
     margin: 5px 0;
+}
+.cont {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.temp-icon {
+    font-size: 50px;
+    color: #FFAD51;
+    margin-right: 10px;
 }
